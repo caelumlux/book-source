@@ -1,0 +1,53 @@
+[
+  {
+    "bookSourceUrl": "https://www.i-du.top/",
+    "bookSourceType": 0,
+    "bookSourceName": "爱读小说",
+    "bookSourceGroup": "Caelum",
+    "bookSourceComment": "",
+    "loginUrl": "",
+    "loginUi": "",
+    "loginCheckJs": "",
+    "concurrentRate": "",
+    "header": "",
+    "bookUrlPattern": "",
+    "searchUrl": "https://www.i-du.top/search/result.html?searchkey={{key}}",
+    "exploreUrl": "",
+    "enabled": true,
+    "enabledExplore": false,
+    "weight": 0,
+    "customOrder": 30,
+    "lastUpdateTime": 1675524918014,
+    "ruleSearch": {
+      "author": "class.block_txt@tag.p.2@text",
+      "bookList": "class.block",
+      "bookUrl": "class.block_txt@tag.a.0@href",
+      "coverUrl": "img@src",
+      "intro": "class.block_txt@tag.p.4@text",
+      "kind": "class.block_txt@tag.p.3@text",
+      "lastChapter": "",
+      "name": "class.block_txt@tag.h2.0@text"
+    },
+    "ruleExplore": {},
+    "ruleBookInfo": {
+      "author": "class.msg@a.0@text",
+      "coverUrl": "class.lf@img@src",
+      "intro": "class.intro@p@text",
+      "kind": "class.place@a.1@text",
+      "lastChapter": "class.msg@a.1@text",
+      "name": "class.rt@tag.h1@text",
+      "tocUrl": ""
+    },
+    "ruleToc": {
+      "chapterList": "class.mulu@tag.li",
+      "chapterName": "tag.a@text",
+      "chapterUrl": "tag.a@href"
+    },
+    "ruleContent": {
+      "content": "class.size16 color5 pt-read-text@p@text",
+      "nextContentUrl": ""
+    },
+    "enabledCookieJar": false,
+    "respondTime": 180000
+  }
+]
